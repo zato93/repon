@@ -1,2 +1,7 @@
 
-body{background:green;}
+body{background:green;
+width:920px;margin:auto;
+}
+
+
+h1{font-size:72px;}
