@@ -1,0 +1,22 @@
+{
+  "name": "gitedu",
+  "version": "1.0.0",
+  "description": "makintosh",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zato93/repon.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zato93/repon/issues"
+  },
+  "homepage": "https://github.com/zato93/repon#readme"
+}

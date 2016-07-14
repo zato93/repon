@@ -1,0 +1,27 @@
+{
+  "name": "gitedu",
+  "homepage": "https://github.com/zato93/repon",
+  "authors": [
+    "zato93 <zato93one@gmail.com>"
+  ],
+  "description": "Loftbloger",
+  "main": "index.html",
+  "keywords": [
+    "hacker"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.6",
+    "angular": "angularjs#^1.5.7",
+    "sweetalert": "^1.1.3"
+  }
+}
